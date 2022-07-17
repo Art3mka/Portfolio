@@ -247,15 +247,14 @@ img {
   height: 42px;
 }
 .contact__btn a {
+  width:100%;
   display: flex;
   align-items: center;
-
-  margin: 0 auto;
-
+  justify-content: center;
+  
   color: #ffffff;
   text-decoration: none;
   font-weight: 700;
-
 }
 .contact--subtitle {
   padding-bottom: 30px;
