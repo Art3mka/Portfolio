@@ -245,6 +245,8 @@ img {
 
   width: 180px;
   height: 42px;
+  
+  overflow: hidden;
 }
 .contact__btn a {
   width:100%;
